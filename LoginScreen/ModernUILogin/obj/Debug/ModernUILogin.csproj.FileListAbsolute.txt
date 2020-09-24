@@ -1,0 +1,15 @@
+C:\Users\Brandon\source\repos\LoginScreen\ModernUILogin\bin\Debug\ModernUILogin.exe.config
+C:\Users\Brandon\source\repos\LoginScreen\ModernUILogin\bin\Debug\ModernUILogin.exe
+C:\Users\Brandon\source\repos\LoginScreen\ModernUILogin\bin\Debug\ModernUILogin.pdb
+C:\Users\Brandon\source\repos\LoginScreen\ModernUILogin\obj\Debug\ModernUILogin.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\LoginScreen\ModernUILogin\obj\Debug\MainWindow.g.cs
+C:\Users\Brandon\source\repos\LoginScreen\ModernUILogin\obj\Debug\App.g.cs
+C:\Users\Brandon\source\repos\LoginScreen\ModernUILogin\obj\Debug\ModernUILogin_MarkupCompile.cache
+C:\Users\Brandon\source\repos\LoginScreen\ModernUILogin\obj\Debug\ModernUILogin_MarkupCompile.lref
+C:\Users\Brandon\source\repos\LoginScreen\ModernUILogin\obj\Debug\MainWindow.baml
+C:\Users\Brandon\source\repos\LoginScreen\ModernUILogin\obj\Debug\ModernUILogin.g.resources
+C:\Users\Brandon\source\repos\LoginScreen\ModernUILogin\obj\Debug\ModernUILogin.Properties.Resources.resources
+C:\Users\Brandon\source\repos\LoginScreen\ModernUILogin\obj\Debug\ModernUILogin.csproj.GenerateResource.cache
+C:\Users\Brandon\source\repos\LoginScreen\ModernUILogin\obj\Debug\ModernUILogin.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\LoginScreen\ModernUILogin\obj\Debug\ModernUILogin.exe
+C:\Users\Brandon\source\repos\LoginScreen\ModernUILogin\obj\Debug\ModernUILogin.pdb
